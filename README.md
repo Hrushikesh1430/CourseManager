@@ -2,7 +2,7 @@
 Course Manager 
 
 ## Demo link:
-Access my site at https://resplendent-sunflower-68b4e6.netlify.app
+Preview link -  https://resplendent-sunflower-68b4e6.netlify.app
 
 ## Table of Content:
 
